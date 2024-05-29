@@ -4,6 +4,11 @@ import os
 
 
 def convert_json_to_sqlite(json_file, sqlite_file):
+    # Delete the SQLite file if it exists
+    if os.path.exists(sqlite_file):
+        os.remove(sqlite_file)
+        print(f"Deleted existing file {sqlite_file}")
+
     with open(json_file, "r", encoding="utf-8") as f:
         data = json.load(f)
 
@@ -12,7 +17,7 @@ def convert_json_to_sqlite(json_file, sqlite_file):
 
     headers = data[0].keys()
     columns = ", ".join([f'"{header}"' for header in headers])
-    cursor.execute(f"CREATE TABLE IF NOT EXISTS morning_and_evening ({columns})")
+    cursor.execute(f"CREATE TABLE morning_and_evening ({columns})")
 
     for entry in data:
         placeholders = ", ".join(["?"] * len(headers))
