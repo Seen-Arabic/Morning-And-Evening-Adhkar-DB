@@ -105,7 +105,7 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 <p align="center">
    <a href="https://github.com/Seen-Arabic/Morning-And-Evening-Adhkar-DB/releases/latest">
-     <img src="https://img.shields.io/github/v/release/Seen-Arabic/Morning_And_Evening_Adhkar_DB"/>
+     <img src="https://img.shields.io/github/v/release/Seen-Arabic/Morning-And-Evening-Adhkar-DB"/>
    </a>
   <a href="https://github.com/Seen-Arabic/Morning-And-Evening-Adhkar-DB/issues">
     <img src="https://img.shields.io/github/issues/Seen-Arabic/Morning-And-Evening-Adhkar-DB"/>
