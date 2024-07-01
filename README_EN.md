@@ -5,6 +5,9 @@
 </div>
 
 <h1 align=center> 📚 Morning and Evening Adhkar Database </h1>
+<div align=center>
+    <img src="https://github.com/Seen-Arabic/Morning-And-Evening-Adhkar-DB/assets/48678280/4370c84c-f189-44a1-8537-a28b804adea8" alt="GitHub Repo Image">
+</div>
 <p align=center><strong>
 Morning and Evening Adhkar Database is an open-source project that provides structured data for morning and evening adhkar (supplications) in both Arabic and English. This project includes various formats like JSON, CSV, SQL, and SQLite, generated from the primary JSON files.
 </strong></p><br>
