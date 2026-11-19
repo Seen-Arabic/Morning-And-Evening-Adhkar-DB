@@ -93,6 +93,10 @@ We welcome contributions to this project! Here are some guidelines to get you st
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
+## 🌐 Organization Links
+
+- 🌎 [Seen Arabic Website](https://seen-arabic.github.io/) · [Arabic Services Tools](https://seen-arabic.github.io/Arabic-Services/) · [Blog](https://seen-arabic.github.io/blog/)
+
 <br><div align=center>
 
 <h2>🌟 ضع نجمة على هذا المستودع 🌟</h2>

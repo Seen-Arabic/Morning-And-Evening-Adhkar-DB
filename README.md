@@ -98,6 +98,10 @@ Morning_And_Evening_Adhkar_DB/
 
 هذا المشروع مرخص بموجب رخصة MIT. راجع ملف LICENSE لمزيد من المعلومات.
 
+## 🌐 روابط المنظمة
+
+- 🌎 [موقع س - Seen Arabic](https://seen-arabic.github.io/) · [خدمات اللغة العربية](https://seen-arabic.github.io/Arabic-Services/) · [المدونة](https://seen-arabic.github.io/blog/)
+
 <br><div align=center>
 
 <h2>🌟 ضع نجمة على هذا المستودع 🌟</h2>
